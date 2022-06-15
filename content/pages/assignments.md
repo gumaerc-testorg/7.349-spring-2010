@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on weekly assignments related to the
+  class discussions, an assignment to write a proposal of future experiments, and
+  the final oral presentation of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

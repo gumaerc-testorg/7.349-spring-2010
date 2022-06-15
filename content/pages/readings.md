@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the journal articles assigned as readings
+  for each lecture session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Overview)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Overview" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +52,7 @@ no readings
 
 Neuromuscular Junction (NMJ) Synapses, Miniature End-Plate Potentials (mEPPs), and Quantal Hypothesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Revolutionary)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Revolutionary" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Orkand, R. K. "[The Relation Between Membrane Potential and Contraction in Singl
 
 Central Nervous System (CNS) Synapses and Glutamate Receptorst
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#There_are)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#There_are" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +108,7 @@ Bekkers, J. M., and C. F. Stevens. "[NMDA and non-NMDA Receptors are Co-localize
 
 CNS Synaptogenesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Information)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Information" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Tabuchi, K., J. Blundell, M. R. Etherton, R. E. Hammer, X. Liu, C. M. Powell, an
 
 Synaptic Fusion and SNAREs
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Once_a_vesicle)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Once_a_vesicle" %}}
 
 
 {{< tdclose >}}
@@ -162,7 +164,7 @@ Xue, M., Y. Q. Lin, H. Pan, K. Reim, H. Deng, H. J. Bellen, and C. Rosenmund. "[
 
 Synaptic Release, the Calcium Sensor Hypothesis, and Synaptotagmin
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Fast_information)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Fast_information" %}}
 
 
 {{< tdclose >}}
@@ -190,7 +192,7 @@ Yoshihara, M., and J. T. Littleton. "[Synaptotagmin I Functions as a Calcium Sen
 
 Synaptic Plasticity: Presynaptic Pair-Pulse Changes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Repetitive)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Repetitive" %}}
 
 
 {{< tdclose >}}
@@ -218,7 +220,7 @@ Liu, G., and R. W. Tsien. "[Properties of Synaptic Transmission at Single Hippoc
 
 Field Trip to the Laboratory of [Mark Bear](http://bearlab-s1.mit.edu/BearLab/)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Students)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Students" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ no readings
 
 Synaptic Plasticity: LTP
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#One_of_the_leading)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#One_of_the_leading" %}}
 
 
 {{< tdclose >}}
@@ -264,7 +266,7 @@ Isaac, J. T., R. A. Nicoll, and R. C. Malenka. "[Evidence for Silent Synapses: I
 
 Synaptic Plasticity: LTD
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_addition_to_being)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#In_addition_to_being" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +294,7 @@ Kleppisch, T., V. Voigt, R. Allmann, and S. Offermanns. "[G(alpha)q-deficient Mi
 
 Synaptic Plasticity: STDP
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Spike-time-dependent)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Spike-time-dependent" %}}
 
 
 {{< tdclose >}}
@@ -320,7 +322,7 @@ Pawlak, V. and J. N. Kerr. "[Dopamine Receptor Activation is Required for Cortic
 
 Persistent Neuronal Activity and UP-States
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#In_some_brain)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#In_some_brain" %}}
 
 
 {{< tdclose >}}
@@ -348,7 +350,7 @@ Larimer, P., and B. W. Strowbridge. "[Representing Information in Cell Assemblie
 
 Optogenetic Tools in Neuroscience
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Optogenetics)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#Optogenetics" %}}
 
 
 {{< tdclose >}}
@@ -376,7 +378,7 @@ Petreanu, L., D. Huber, A. Sobczyk, and K. Svoboda. "[Channelrhodopsin-2-assiste
 
 Oral Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#will_individually_)
+{{% resource_link 206594c0-adde-c7b8-94ca-df1871e5645c "See the Lecture Summary" "#will_individually_" %}}
 
 
 {{< tdclose >}}
