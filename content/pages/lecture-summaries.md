@@ -116,7 +116,7 @@ Synaptic Plasticity: Presynaptic Pair-Pulse Changes
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Field Trip to the Laboratory of [Mark Bear](http://bearlab-s1.mit.edu/BearLab/)
+Field Trip to the Laboratory of {{% resource_link "9adc0fdb-16e2-44f1-8c3a-52e4795399fc" "Mark Bear" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< anchor "Students" >}}{{< /anchor >}}Students will be able to watch _in vitro_ slice physiology and _in vivo_ recordings of visually evoked potentials (VEPs) in mice.
